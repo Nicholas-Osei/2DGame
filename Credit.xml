@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MainMenu>
+  <Axix>Y</Axix>
+  <Effects>Fade</Effects>
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\Credit.xml</LinkID>
+    <Image>
+      <Text>Gemaakt door Nicholas Osei</Text>
+    </Image>
+  </Item>
+
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TitelMenu.xml</LinkID>
+    <Image>
+      <Text>Terug Naar HoofdMenu</Text>
+    </Image>
+  </Item>
+  
+</MainMenu>

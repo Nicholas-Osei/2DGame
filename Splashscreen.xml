@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SplashScreen>
+  <Image>
+    <Path>photo</Path>
+    <Effects>Fade</Effects>
+    <isActive>false</isActive>
+    <Alpha>0.5</Alpha>
+    <Fadeeffect>
+      <FadeSpeed>0.5</FadeSpeed>
+    </Fadeeffect>
+ 
+  </Image>
+  
+</SplashScreen>

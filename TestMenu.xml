@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MainMenu>
+  <Axix>X</Axix>
+  <Effects>Fade</Effects>
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TestMenu.xml</LinkID>
+    <Image>
+      <Text>Camera</Text>
+    </Image>
+  </Item>
+
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TestMenu.xml</LinkID>
+    <Image>
+      <Text>Level</Text>
+    </Image>
+  </Item>
+
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TestMenu.xml</LinkID>
+    <Image>
+      <Text>Setting</Text>
+    </Image>
+  </Item>
+
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TitelMenu.xml</LinkID>
+    <Image>
+      <Text>Terug Naar HoofdMenu</Text>
+    </Image>
+  </Item>
+</MainMenu>

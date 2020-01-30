@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MainMenu>
+  <Axix>Y</Axix>
+  <Effects>Fade</Effects>
+  <Item>
+    <LinkType>Screen</LinkType>
+    <LinkID>GamePlay</LinkID>
+    <Image>
+      <Text>Nieuw Spel</Text>
+    </Image>
+  </Item>
+  <Item>
+    <LinkType>MainMenu</LinkType>
+    <LinkID>Load\TestMenu.xml</LinkID>
+    <Image>
+      <Text>Opties</Text>
+    </Image>
+  </Item>
+  <Item>
+    <LinkType>Screen</LinkType>
+    <LinkID>Controles_Screen</LinkID>
+    <Image>
+      <Text>Controles</Text>
+    </Image>
+  </Item>
+
+  <Item>
+    <LinkType>Screen</LinkType>
+    <LinkID>Credit_Screen</LinkID>
+    <Image>
+      <Text>Credits</Text>
+    </Image>
+  </Item>
+</MainMenu>
